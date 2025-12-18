@@ -1,0 +1,1 @@
+GET http://laravel-online-store-api.test/api/products?page=2&size=2
